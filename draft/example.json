@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Al-Amin Firdows",
+		"email": "hello@alamin.me",
+		"url": "https://alamin.me",
+		"location": "Dhaka, Bangladesh",
+		"languages": ["Bengali", "English"],
+		"level": "Beginner",
+		"skills": [
+			"Python",
+			"JavaScript",
+			"PHP",
+			"C++",
+			"C",
+			"C#",
+			"Java",
+			"HTML",
+			"CSS",
+			"SQL",
+			"Bash"
+		],
+		"github": "alaminfirdows",
+		"socials": [
+			"https://twitter.com/alaminfirdows",
+			"https://www.linkedin.com/in/alaminfirdows/"
+		]
+	}
+]
