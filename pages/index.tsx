@@ -13,7 +13,14 @@ const Home: NextPage = () => {
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 
-			<main>Hello</main>
+			<main className='bg-slate-900 text-white h-screen overflow-hidden overflow-y-auto'>
+				<div className='max-w-6xl mx-auto'>
+					<div className='h-12 border-b items-center border-gray-700 flex justify-between'>
+						<h1 className='text-xl'>Awesome Peoples</h1>
+						<div></div>
+					</div>
+				</div>
+			</main>
 		</>
 	);
 };
